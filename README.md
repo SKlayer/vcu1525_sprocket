@@ -1,3 +1,6 @@
+This repository was originally uploaded by Sprocket sometime last year.  I did not write any of these, they are unmodified from the original.  Sprocket is the original author.
+________________________________________________________________________________________________
+
 <i>This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 See the GNU General Public License for more details.</i>
 
